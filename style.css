@@ -11,6 +11,10 @@
     height: 190px;
     background-color: coral;
     margin-top: 40px;
+    display: flex;              
+    justify-content: center;    
+    align-items: center;
+    color: aqua;        
 }
 
 #Papa2 {
@@ -26,9 +30,17 @@
     height: 550px;
     background-color: coral;
     margin-right: 10px;
+    display: flex;              
+    justify-content: center;    
+    align-items: center;
+    color: aqua;
 }
 .hijo3 {
     width: 23.75%;
     height: 550px;
     background-color: coral;
+    display: flex;              
+    justify-content: center;    
+    align-items: center; 
+    color: aqua;
 }
